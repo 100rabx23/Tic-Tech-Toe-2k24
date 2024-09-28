@@ -1,6 +1,6 @@
 
 # TIC TECH TOE 2k24
-# Save & Share
+# Save & Share 🍱
 
 <center><img src= "Save & Share Logo.png" width="155"></center>
 Our idea involves addressing two critical issues: food insecurity and food waste. The goal is to build a digital platform that connects food donors (e.g., restaurants, grocery stores, individuals with surplus food) with NGOs (who help distribute the food) and volunteers (who assist with logistics). This platform will ensure that excess food is efficiently  redistributed to those in need, thus minimizing waste and providing nourishment to underserved communities.
@@ -11,7 +11,6 @@ Our idea involves addressing two critical issues: food insecurity and food waste
 - [Upcoming Features](#upcoming-features)
 - [Screenshots](#screenshots)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -21,15 +20,41 @@ We bring in the solution by building “Save & Share”: Ideation Document: Tack
 
 ## Features
 
-- Welcome page
-- User login/Signup
-- View account balances
-- Simple and intuitive user interface
+User Module Features
+
+- User Registration and Login:
+Secure signup and login process with email verification.
+Password recovery options.
+
+- Donation Process:
+Form to enter food details (type, quantity, expiry date).
+Ability to upload photos of the food (optional).
+
+- Matching Donations:
+Automated system to match donations with nearby NGOs or individuals.
+
+- Donation History:
+View past donations, including details and impact metrics.
+Option to edit or cancel upcoming donations.
+
+- Admin Module Features
+Admin Dashboard:
+Overview of total donations, active NGOs, and current requests.
+
+- Donation Management:
+View, approve, or reject donations.
+Filter donations by type, quantity, or location.
 
 ## Upcoming Features
 
-- Deposit money into accounts
-- Withdraw money from accounts
+- Chatbot Support:
+Integrated chatbot for FAQs and guidance through the donation process.
+
+- Notifications:
+Email/SMS alerts for donation confirmation and pickup schedules.
+
+- Rating and Feedback System:
+NGOs can rate delivery personnel based on their service quality.
 
 ## Screenshots
 
@@ -48,21 +73,12 @@ We bring in the solution by building “Save & Share”: Ideation Document: Tack
 
 ## Usage
 
-1. Run the application from Visual Studio.
-2. Use the GUI to interact with the banking system.
-    - Register a new account
-    - Log in to your account
-    - Check account balances
+This project is worth choosing because it tackles two major issues: food waste and 
+food insecurity. By building a platform that connects food donors with NGOs and 
+volunteers, we can help redistribute surplus food efficiently, ensuring that less food goes to 
+waste while more people in need get nourished. It’s a meaningful project with real-world 
+impact, leveraging technology to make a difference in communities
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a pull request
 
 ## License
 
