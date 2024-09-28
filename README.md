@@ -62,7 +62,7 @@ NGOs can rate delivery personnel based on their service quality.
 ![Welcome page](img_draft/1st.PNG)
 
 ### Login Screen
-![Login Screen](img/img1.jpeg)
+![Login Screen](img_draft/3.png)
 
 ### After Signup Screen
 ![After Signup Screen](img/img3.jpeg)
