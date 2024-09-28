@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="icon" href="icon1.png" type="png">    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="home.css"> -->
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;0,700;0,800;1,400;1,600&display=swap');
+    
+    body {
+        background-image: url('vegetables.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin: 0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+        animation: fadeIn 2s ease-in-out;
+    }
+    
+    /* Smooth fade-in for the entire body */
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+    
+    /* Logo animation and styling */
+    .logo {
+        padding-top: 2rem;
+        font-size: 35px;
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+        color: black;
+        animation: slideDown 1.5s ease-out;
+    }
+    
+    /* Sliding down effect */
+    @keyframes slideDown {
+        0% {
+            transform: translateY(-50px);
+            opacity: 0;
+        }
+        100% {
+            transform: translateY(0);
+            opacity: 1;
+        }
+    }
+    
+    /* Main container for form, buttons, and other content */
+    .container {
+        max-width: 300px;
+        margin: 100px auto; 
+        padding: 30px;
+        background: rgba(255, 255, 255, 0.2); /* Blurred effect */
+        backdrop-filter: blur(10px); /* Blurring background */
+        border-radius: 20px; /* Curved edges */
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        animation: fadeIn 2s ease;
+    }
+    
+    /* Text inside container */
+    .para {
+        font-size: 24px;
+        color: #fff;
+        margin-bottom: 50px;
+    }
+    
+    /* Equal size buttons */
+    .log a {
+        display: block;
+        width: 100%;
+        font-size: 18px;
+        background: #06C167;
+        padding: 10px;
+        text-decoration: none;
+        font-weight: 500;
+        margin: 20px auto;
+        color: #fff;
+        letter-spacing: 2px;
+        transition: all 0.3s ease;
+        border-radius: 10px;
+        box-sizing: border-box; /* Ensure padding and width are calculated correctly */
+    }
+    
+    .log a:hover {
+        background-color: #036e35;
+        transform: scale(1.05);
+    }
+    
+    /* Responsive: adjust for smaller screens */
+    @media only screen and (max-width: 768px) {
+        .container {
+            width: 90%;
+            padding: 20px;
+        }
+    
+        .para {
+            font-size: 20px;
+        }
+    
+        .log a {
+            font-size: 16px;
+        }
+    }
+    </style>
+
+<body>
+    <p class="logo" style="text-align: center; font-family: 'Poppins', sans-serif; color: rgb(255, 255, 255);">
+        <span style="font-size: 24px;">Welcome to</span><br>
+        <img src="save_share_logo1.png" alt="Save & Share Logo" style="width: 200px; height: auto; vertical-align: middle;" />
+    </p>
+    
+    <div class="container">
+        <p class="para">Login as</p>
+        <div class="log">
+            <a href="signup.php">User</a>
+            <a href="admin/signup.php">Admin</a>
+            <a href="delivery/deliverysignup.php" id="delivery">Delivery</a>
+        </div>
+    </div>
+<div class="add">
+ 
+</div>
+
+</body>
+</html>
