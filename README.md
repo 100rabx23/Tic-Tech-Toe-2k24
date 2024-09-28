@@ -1,5 +1,5 @@
 
-# TIC TECH TOE 2k24
+<center># TIC TECH TOE 2k24</center>
 # Save & Share
 
 Our idea involves addressing two critical issues: food insecurity and food waste. The goal is to build a digital platform that connects food donors (e.g., restaurants, grocery stores, individuals with surplus food) with NGOs (who help distribute the food) and volunteers (who assist with logistics). This platform will ensure that excess food is efficiently  redistributed to those in need, thus minimizing waste and providing nourishment to underserved communities.
