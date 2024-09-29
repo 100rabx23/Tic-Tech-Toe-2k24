@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="Save & Share Logo.png" width="175" alt="Logo">
-    <img style="align-items: right;" src="img_draft/delivery1.gif" width="155" alt="Delivery">
+    <img style="align-items: right;" src="img_draft/delivery1.gif" width="165" alt="Delivery">
 </div>
 Our idea involves addressing two critical issues: food insecurity and food waste. The goal is to build a digital platform that connects food donors (e.g., restaurants, grocery stores, individuals with surplus food) with NGOs (who help distribute the food) and volunteers (who assist with logistics). This platform will ensure that excess food is efficiently  redistributed to those in need, thus minimizing waste and providing nourishment to underserved communities.
 
