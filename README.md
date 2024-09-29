@@ -1,6 +1,6 @@
 
 # TIC TECH TOE 2k24
-# Save & Share 🍱 -By Mindfresh Team        <img style="align-items: right;" src="img_draft/delivery1.gif" width="165" alt="Delivery">
+# Save & Share 🍱 -By Mindfresh Team        <img style="align-items: right;" src="img_draft/delivery1.gif" width="145" alt="Delivery">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="Save & Share Logo.png" width="175" alt="Logo">
