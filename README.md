@@ -86,7 +86,7 @@ impact, leveraging technology to make a difference in communities
 
 ## Demo video
 
-<img src="mg_draft/2.gif">
+<img src="img_draft/2.gif">
 
 ## License
 
