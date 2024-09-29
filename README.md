@@ -84,6 +84,9 @@ volunteers, we can help redistribute surplus food efficiently, ensuring that les
 waste while more people in need get nourished. It’s a meaningful project with real-world 
 impact, leveraging technology to make a difference in communities
 
+## Demo video
+
+<img src="mg_draft/2.gif">
 
 ## License
 
