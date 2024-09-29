@@ -2,7 +2,7 @@
 # TIC TECH TOE 2k24
 # Save & Share 🍱 -By Mindfresh Team
 
-<center><img src= "Save & Share Logo.png" width="155"> <img src="img_draft/an.gif"></center>
+<center><img src= "Save & Share Logo.png" width="155"> <img src="img_draft/delivery1.gif"></center>
 Our idea involves addressing two critical issues: food insecurity and food waste. The goal is to build a digital platform that connects food donors (e.g., restaurants, grocery stores, individuals with surplus food) with NGOs (who help distribute the food) and volunteers (who assist with logistics). This platform will ensure that excess food is efficiently  redistributed to those in need, thus minimizing waste and providing nourishment to underserved communities.
 ## Table of Contents
 
