@@ -65,7 +65,7 @@ NGOs can rate delivery personnel based on their service quality.
 ![Login Screen](img_draft/3.png)
 
 ### Geolocation System
-![Geolocation System](img/5.png)
+![Geolocation System](img_draft/6.png)
 
 ### Main Dashboard
 ![Main Dashboard](img/img4.jpeg)
